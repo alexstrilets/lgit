@@ -1,0 +1,8 @@
+ *.o
+ *.obj
+ # Compiled Dynamic libraries
+ *.so
+ *.dylib
+ # Libraries
+ *.lib
+ *.a
