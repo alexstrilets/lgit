@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
 	printf("This is C program \n");
+	return 0;
 }
